@@ -1,6 +1,6 @@
 .. _WebFramework:
 
-VOLTTRON Web Framwwork
+VOLTTRON Web Framework
 ======================
 
 This document describes the interaction between web enabled agents and the MasterWebService agent.
